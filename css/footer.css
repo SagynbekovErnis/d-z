@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-right: 24px;
+    color: #355B3E;
+    font-family: 'Inter'
+}
+span{
+    margin-right: 24px;
+    color: #58745E;
+    font-family: 'Inter'
+}
+footer{
+    margin-top: 56px;
+}

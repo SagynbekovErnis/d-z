@@ -1,0 +1,57 @@
+label{
+    color: #2F3D4C;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Inter'
+}
+input{
+    margin-top: 8px;
+    width: 385px;
+    height: 40px;
+    padding: 16px;
+    border-radius: 8px;
+}
+.end_login{
+    color: #355B3E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 24px;
+    font-family: 'Inter'
+}
+.end_password{
+    border-bottom: 1px solid #355B3E;
+}
+.password{
+    margin-top: 24px;
+}
+.end_text{
+    margin-right: 164px;
+}
+.login_signup{
+    display: flex;
+    margin-top: 24px;
+}
+.login{
+    background: #029664;
+    width: 167px;
+    height: 16px;
+    color: #fff;
+    padding: 16px;
+    text-align: center;
+    font-family: 'Inter';
+    border-radius: 8px;
+    padding-bottom: 25px;
+}
+.sign_up{
+    text-align: center;
+    font-family: 'Inter';
+    color: #029664;
+    border: 1px solid #029664;
+    border-radius: 8px;
+    width: 167px;
+    height: 16px;
+    padding: 16px;
+    padding-bottom: 25px;
+    margin-left: 24px;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #355B3E;
+    padding: 120px 312px 135px 312px;
+}
+.container_login{
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 48px;
+    padding-bottom: 66px;
+    margin: 0 auto;
+    width: 422px;
+    border-radius: 20px 0 0 20px;
+
+}
+.container_img{
+    background: #F5DBC4;
+    padding: 188px 123px 188.5px 123px;
+    border-radius: 0 20px 20px 0 ;
+}
+.container_login{
+    background: #fff;
+}
